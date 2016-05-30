@@ -6,3 +6,4 @@ www/lib/*
 platforms/
 plugins/
 .sass-cache
+.DS_Store
