@@ -1,4 +1,5 @@
-angular.module('app.animations', [])
+angular
+.module('app.animations', [])
 
 .animation('.my-show-hide-animation', function() {
   return {

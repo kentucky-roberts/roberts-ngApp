@@ -1,5 +1,5 @@
 angular
-  .module('app.service')
+  .module('app')
     .factory('PlayerService', PlayerService);
 
 function PlayerService() {
